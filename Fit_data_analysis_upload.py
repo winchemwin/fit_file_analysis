@@ -1,5 +1,3 @@
-from doctest import master
-from email.quoprimime import body_length
 import tkinter as tk
 from tkinter import BOTH, ttk
 from tkinter import StringVar, messagebox
@@ -7,7 +5,6 @@ from turtle import onclick
 from tkinter import filedialog
 import pandas as pd
 import numpy as np
-import csv
 import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
 from matplotlib.figure import Figure
