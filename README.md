@@ -25,8 +25,8 @@ Note:
 I don' t test environments under Linux and Mac.
 
 Author:
-Hajime, M
-E-mail wintechajime@gmail.com
+winchemwin
+E-mail winchemwin08@gmail.com
 
 License:
 "fit analyzer" is under MIT license.
